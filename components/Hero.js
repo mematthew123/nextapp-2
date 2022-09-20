@@ -59,7 +59,7 @@ export default function Hero() {
         <img
           className="h-56 w-full object-cover sm:h-72 md:h-96 lg:h-full lg:w-full"
           // src="https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80"
-          src="https://cdn.pixabay.com/photo/2020/05/25/03/37/doctor-5216835_1280.png"
+          src="https://cdn.pixabay.com/photo/2016/10/10/14/13/dog-1728494_1280.png"
           alt=""
         />
       </div>
